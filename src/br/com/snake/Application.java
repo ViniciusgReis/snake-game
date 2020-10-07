@@ -1,4 +1,6 @@
-package snake;
+package br.com.snake;
+
+import br.com.snake.core.Game;
 
 public class Application {
 
